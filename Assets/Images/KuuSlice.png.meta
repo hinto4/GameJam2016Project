@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: ffeb4efcc082d8248a9f4e899db610d6
+timeCreated: 1479550320
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KuuSlice_0
+    21300002: KuuSlice_1
+    21300004: KuuSlice_2
+    21300006: KuuSlice_3
+    21300008: KuuSlice_4
+    21300010: KuuSlice_5
+    21300012: KuuSlice_6
+    21300014: KuuSlice_7
+    21300016: KuuSlice_8
+    21300018: KuuSlice_9
+    21300020: KuuSlice_10
+    21300022: KuuSlice_11
+    21300024: KuuSlice_12
+    21300026: KuuSlice_13
+    21300028: KuuSlice_14
+    21300030: KuuSlice_15
+    21300032: KuuSlice_16
+    21300034: KuuSlice_17
+    21300036: KuuSlice_18
+    21300038: KuuSlice_19
+    21300040: KuuSlice_20
+    21300042: KuuSlice_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KuuSlice_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 963
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 880
+        width: 206
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 908
+        width: 146
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_3
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 894
+        width: 123
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_4
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 950
+        width: 135
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_5
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 892
+        width: 167
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_6
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 830
+        width: 171
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 708
+        width: 161
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 678
+        width: 182
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 721
+        width: 251
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_10
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 648
+        width: 107
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_11
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 608
+        width: 224
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 370
+        width: 108
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 273
+        width: 103
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 432
+        width: 142
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_15
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 369
+        width: 241
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_16
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 301
+        width: 163
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_17
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 371
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 137
+        width: 144
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_19
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 72
+        width: 151
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_20
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 147
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KuuSlice_21
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 104
+        width: 142
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
